@@ -1,0 +1,81 @@
+﻿  DrivingMode.cpp
+e:\project\deepergtav\lib\rapidjson\document.h(958): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(964): warning C4003: “min”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(965): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(982): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(983): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\drivingmode.cpp(387): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+e:\project\deepergtav\drivingmode.cpp(416): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\project\deepergtav\drivingmode.cpp(626): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  ScenarioMsg.cpp
+e:\project\deepergtav\lib\rapidjson\document.h(958): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(964): warning C4003: “min”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(965): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(982): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(983): warning C4003: “max”宏的实参不足
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(17): warning C4005: “_WINSOCKAPI_”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(17): note: 命令行参数: 参见前面的“_WINSOCKAPI_”定义
+e:\project\deepergtav\scenariomsg.cpp(240): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\project\deepergtav\scenariomsg.cpp(256): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\project\deepergtav\scenariomsg.cpp(257): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\project\deepergtav\scenariomsg.cpp(258): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\project\deepergtav\scenariomsg.cpp(391): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\project\deepergtav\scenariomsg.cpp(398): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\project\deepergtav\scenariomsg.cpp(399): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\project\deepergtav\scenariomsg.cpp(400): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  LaneRewarder.cpp
+e:\project\deepergtav\lib\rapidjson\document.h(958): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(964): warning C4003: “min”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(965): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(982): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(983): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\rewarders\lanerewarder.cpp(53): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\project\deepergtav\rewarders\lanerewarder.cpp(57): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\project\deepergtav\rewarders\lanerewarder.cpp(58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\project\deepergtav\rewarders\lanerewarder.cpp(363): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Scenario.cpp
+e:\project\deepergtav\lib\rapidjson\document.h(958): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(964): warning C4003: “min”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(965): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(982): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(983): warning C4003: “max”宏的实参不足
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(17): warning C4005: “_WINSOCKAPI_”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(17): note: 命令行参数: 参见前面的“_WINSOCKAPI_”定义
+e:\project\deepergtav\scenario.cpp(52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\project\deepergtav\scenario.cpp(102): warning C4244: “参数”: 从“time_t”转换到“int”，可能丢失数据
+e:\project\deepergtav\scenario.cpp(99): warning C4101: “checkPos”: 未引用的局部变量
+e:\project\deepergtav\scenario.cpp(201): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\project\deepergtav\scenario.cpp(217): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\project\deepergtav\scenario.cpp(269): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  script.cpp
+e:\project\deepergtav\lib\rapidjson\document.h(958): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(964): warning C4003: “min”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(965): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(982): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(983): warning C4003: “max”宏的实参不足
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(17): warning C4005: “_WINSOCKAPI_”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(17): note: 命令行参数: 参见前面的“_WINSOCKAPI_”定义
+  Server.cpp
+e:\project\deepergtav\lib\rapidjson\document.h(958): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(964): warning C4003: “min”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(965): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(982): warning C4003: “max”宏的实参不足
+e:\project\deepergtav\lib\rapidjson\document.h(983): warning C4003: “max”宏的实参不足
+c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(17): warning C4005: “_WINSOCKAPI_”: 宏重定义
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(17): note: 命令行参数: 参见前面的“_WINSOCKAPI_”定义
+e:\project\deepergtav\server.cpp(27): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note: 参见“freopen”的声明
+e:\project\deepergtav\server.cpp(183): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\project\deepergtav\server.cpp(240): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  0 of 3828 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  DeepGTAV.vcxproj -> E:\Project\DeeperGTAV\bin\Release\DeepGTAV.asi
+  bin\Release\DeepGTAV.asi
+  bin\Release\DeepGTAV.iobj
+  bin\Release\DeepGTAV.ipdb
+  bin\Release\GTAVLauncherBypass.asi
+  bin\Release\GTAVLauncherBypass.ini
+  已复制         5 个文件。
