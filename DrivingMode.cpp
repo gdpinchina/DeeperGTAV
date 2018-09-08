@@ -104,7 +104,7 @@ void DrivingMode::setScenarioParams(const Value& sc)
 		//destination position
 		if (route.Size() > 3 && (route.Size() - 3) % 3 == 0)
 		{
-			for (int i = 0; i < (route.Size() - 3) / 3; i++)
+			for (unsigned int i = 0; i < (route.Size() - 3) / 3; i++)
 			{
 				tmp.org.x = route[3 + 3 * i].GetFloat();
 				tmp.org.y = route[4 + 3 * i].GetFloat();
@@ -151,7 +151,7 @@ void DrivingMode::setScenarioParams(const Value& sc)
 
 			//driving speed
 			if (!drivingMode[2].IsNull()) _curDS.desiredSpeed = drivingMode[2].GetFloat();
-			else _curDS.desiredSpeed = 1.0*(rand() % 20);
+			else _curDS.desiredSpeed = (float)1.0*(rand() % 20);
 
 			//driving aggressiveness
 			if (!drivingMode[3].IsNull()) _curDS.aggressivenss = drivingMode[3].GetFloat();
@@ -308,7 +308,7 @@ void DrivingMode::showTaskStates()
 			i, _route[i].org.x, _route[i].org.y, _route[i].org.z, _route[i].node.x, _route[i].node.y, _route[i].node.z);
 	}
 
-	printf("\negoDrivingParamsFlag=%s, surroundingDrivingParamsFlag", 
+	printf("\negoDrivingParamsFlag=%s, surroundingDrivingParamsFlag=%s", 
 		_drivingParamFlagStr[_egoDrivingParamFlag].data(), _drivingParamFlagStr[_suroundDrivingParamFlag].data());
 	printf("\nis sending msg=%d", _isMsgActivate);
 
